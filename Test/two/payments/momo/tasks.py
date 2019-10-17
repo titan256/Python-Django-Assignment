@@ -21,7 +21,5 @@ def get_payment_status_task():
 	    request.save()
 	    logger.info(transdetail)
 
-		#(f'HERE:{transdetail}')
-
 
 
