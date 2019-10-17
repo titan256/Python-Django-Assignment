@@ -1,5 +1,5 @@
 # Full Stack Software Challenge
-This is the submission for the Fenix Full Stack Software Developer Take Home Assignment
+This is an application that calculates days of power and intergrates momo api requests in the python-django framework
 
 ###### Folder Structure
 The Assignment has been divided into two folders : 
