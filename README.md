@@ -1,4 +1,4 @@
-# Full-Stack-Software-Fenix
+# Full Stack Software Challenge
 This is the submission for the Fenix Full Stack Software Developer Take Home Assignment
 
 ###### Folder Structure
