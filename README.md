@@ -9,9 +9,8 @@ folder two/payments - for Question 2. (Integrations)-Django Project
 
 ###### Execution for Question 1 (Algorithms):
 This was done using conditional logic.
-
-run the below code in the command line:
- *python days_of_power.py 
+run the below code in the command line
+ * python days_of_power.py 
 
 ###### Execution for Question 2
 
