@@ -134,3 +134,12 @@ MOMO_HEADER = {
  "DISBURSEMENT_API_SECRET": 'c19f8f4427d34d06856f4d2d8a954df0',
  "DISBURSEMENT_PRIMARY_KEY": 'a5fbbb09461b4099888798012721b59e', 
 }
+
+
+# REDIS related settings 
+# REDIS related settings 
+REDIS_HOST = 'localhost'
+REDIS_PORT = '6379'
+BROKER_URL = 'redis://' + REDIS_HOST + ':' + REDIS_PORT + '/0'
+BROKER_TRANSPORT_OPTIONS = {'visibility_timeout': 3600} 
+CELERY_RESULT_BACKEND = 'redis://' + REDIS_HOST + ':' + REDIS_PORT + '/0'
